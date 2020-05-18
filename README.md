@@ -18,3 +18,5 @@ chmod u+x mkplymouth.py
 ~~~
 
 ビデオファイル名にはPlymouthテーマに変換したい動画ファイルを、テーマ名には変換後のPlymouthテーマの名前を入力して下さい。
+
+実行するとテーマ名と同じディレクトリが出来るのでそれを/usr/share/plymouth/themes辺りに移動してテーマを適用して下さい。
