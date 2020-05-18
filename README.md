@@ -6,6 +6,7 @@
 ### 必要なパッケージ
 
 ~~~
+Python3.3以降
 ffmpeg
 ffmpeg-python
 ~~~
