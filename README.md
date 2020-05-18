@@ -1,4 +1,4 @@
-# mkplymouththeme
+# make-plymouth-theme
 
 ### 概要
 これは、plymouthのループするスプラッシュテーマを作成するPythonスクリプトです。
