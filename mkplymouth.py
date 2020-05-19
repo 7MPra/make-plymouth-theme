@@ -25,7 +25,7 @@ os.makedirs(sys.argv[2])
 
 in_video=sys.argv[1]
 out_pic='{}/progress-%d.png'.format(sys.argv[2])
-option='-vcodec png start_number 0'
+option='-vcodec png --start_number 0'
 
 os.system('ffmpeg -i {} {} {}'.format(in_video,option,out_pic))
 
