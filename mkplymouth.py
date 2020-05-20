@@ -1,6 +1,5 @@
 import os
 import shutil
-import ffmpeg
 import sys
 
 if shutil.which('ffmpeg') == None:
