@@ -8,8 +8,8 @@
 ~~~
 Python3.3以降
 ffmpeg
-ffmpeg-python
 ~~~
+~~ffmpeg-python~~
 
 ### 使い方
 ~~~
