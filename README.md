@@ -8,7 +8,7 @@
 ~~~
 Python3.3以降
 ffmpeg
-ffmpeg-python
+ffmpeg-python (pipでインストールしてください)
 ~~~
 
 ### 使い方
