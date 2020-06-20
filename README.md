@@ -9,8 +9,6 @@
 Python3.3以降
 ffmpeg
 ~~~
-~~ffmpeg-python~~
-ffmpeg-pythonの使用はやめました
 
 ### 使い方
 ~~~
