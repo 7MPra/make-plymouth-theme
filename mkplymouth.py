@@ -16,7 +16,7 @@ if sys.argv[1] == '-h':
 if len(sys.argv) != 3:
 	usage()
 if not os.path.isfile(sys.argv[1]):
-	print('{}: Error: {} is not found.'.format(sys.argv[0],sys.argv[1]))
+	print('{}: {}: no such file.'.format(sys.argv[0],sys.argv[1]))
 	usage()
 
 if os.path.exists(sys.argv[2]):
